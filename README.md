@@ -29,6 +29,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Live Demo
+
+**https://crypto-market-scanner-jade.vercel.app**
+
 ## BingX Wallet Setup
 
 1. Go to BingX → API Management
